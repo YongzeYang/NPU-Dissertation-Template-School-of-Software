@@ -22,11 +22,11 @@
 
 
 
-![type](images\type.png)
+![type](/images/type.png)
 
 标题和正文分别所对应的部分如下图所示。
 
-![example](images\example.png)
+![example](/images/example.png)
 
 
 
@@ -34,11 +34,11 @@
 
 标题支持自动编号。如需更新目录，点击引用->目录->更新目录，然后选择只更新页码或更新整个目录。
 
-![update](images\update.png)
+![update](/images/update.png)
 
 
 
-![gxml](images\gxml.png)
+![gxml](/images/gxml.png)
 
 
 
@@ -50,11 +50,11 @@
 
 点击布局->段落（如下图红色矩形所示）。
 
-![hjsd](images\hjsd.png)
+![hjsd](/images/hjsd.png)
 
 进入到如下页面后，点击行距->多倍行距，设定值为1.25，即可满足排版1.25倍行距要求。
 
-![hj](images\hj.png)
+![hj](/images/hj.png)
 
 
 
@@ -62,7 +62,7 @@
 
 如遇到英文字符被自动换行，在该页面点击“换行与分页”，勾选“允许西文在单词中间换行”即可。
 
-![hh](images\hh.png)
+![hh](/images/hh.png)
 
 
 
@@ -70,19 +70,19 @@
 
 点击引用->目录->自定义目录。
 
-![update](images\zdyml.png)
+![update](/images/zdyml.png)
 
 
 
 在弹出的窗口中，可以设置显示的级别、制表符等。如需要修改具体的第几级目录样式，点击修改按钮。
 
-![mlck](images\mlck.png)
+![mlck](/images/mlck.png)
 
 
 
 之后按照提示修改即可。
 
-![mlck](images\xgjtml.png)
+![mlck](/images/xgjtml.png)
 
 
 
@@ -94,13 +94,13 @@
 
 鼠标右击要修改的样式，然后修改即可。
 
-![ysxtg](images\ysxtg.png)
+![ysxtg](/images/ysxtg.png)
 
 ### 3.4 分页与分节设定
 
 点击布局->分隔符即可分页/分节。分页符后另起一页，分节符后另起一节。
 
-![fyf](images\fyf.png)
+![fyf](/images/fyf.png)
 
 ### 3.5 页码设定
 
@@ -108,7 +108,7 @@
 
 
 
-![ym](C:\Users\yyz\Desktop\毕业设计\images\ym.png)
+![ym](/images/ym.png)
 
 
 
