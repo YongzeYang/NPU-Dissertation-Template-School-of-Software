@@ -22,11 +22,11 @@
 
 
 
-![type](/images/type.png)
+![type](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/type.png)
 
 标题和正文分别所对应的部分如下图所示。
 
-![example](/images/example.png)
+![example](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/example.png)
 
 
 
@@ -34,11 +34,11 @@
 
 标题支持自动编号。如需更新目录，点击引用->目录->更新目录，然后选择只更新页码或更新整个目录。
 
-![update](/images/update.png)
+![update](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/update.png)
 
 
 
-![gxml](/images/gxml.png)
+![gxml](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/gxml.png)
 
 
 
@@ -50,11 +50,11 @@
 
 点击布局->段落（如下图红色矩形所示）。
 
-![hjsd](/images/hjsd.png)
+![hjsd](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/hjsd.png)
 
 进入到如下页面后，点击行距->多倍行距，设定值为1.25，即可满足排版1.25倍行距要求。
 
-![hj](/images/hj.png)
+![hj](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/hj.png)
 
 
 
@@ -62,7 +62,7 @@
 
 如遇到英文字符被自动换行，在该页面点击“换行与分页”，勾选“允许西文在单词中间换行”即可。
 
-![hh](/images/hh.png)
+![hh](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/hh.png)
 
 
 
@@ -70,19 +70,19 @@
 
 点击引用->目录->自定义目录。
 
-![update](/images/zdyml.png)
+![update](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/zdyml.png)
 
 
 
 在弹出的窗口中，可以设置显示的级别、制表符等。如需要修改具体的第几级目录样式，点击修改按钮。
 
-![mlck](/images/mlck.png)
+![mlck](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/mlck.png)
 
 
 
 之后按照提示修改即可。
 
-![mlck](/images/xgjtml.png)
+![mlck](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/xgjtml.png)
 
 
 
@@ -94,13 +94,13 @@
 
 鼠标右击要修改的样式，然后修改即可。
 
-![ysxtg](/images/ysxtg.png)
+![ysxtg](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/ysxtg.png)
 
 ### 3.4 分页与分节设定
 
 点击布局->分隔符即可分页/分节。分页符后另起一页，分节符后另起一节。
 
-![fyf](/images/fyf.png)
+![fyf](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/fyf.png)
 
 ### 3.5 页码设定
 
@@ -108,7 +108,7 @@
 
 
 
-![ym](/images/ym.png)
+![ym](https://cdn.jsdelivr.net/gh/stormwyrmx/blog-image/img/ym.png)
 
 
 
